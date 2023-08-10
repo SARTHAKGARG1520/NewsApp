@@ -1,0 +1,16 @@
+.header{
+  height: 20%;
+  background-color: bisque;
+}
+.card-container{
+display: flex;
+flex-wrap: nowrap;
+}
+.card{
+  display: flex;
+  height: 100px;
+  width: 100px;
+}
+.image{
+  height: 50px;
+}
